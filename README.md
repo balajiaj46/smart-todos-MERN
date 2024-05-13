@@ -21,8 +21,8 @@ transparenttextures - https://www.transparenttextures.com/<br><br>
 (Backend)<br>
 Node - https://nodejs.org/en/download<br>
 Express - https://expressjs.com/<br>
-Postman - https://www.postman.com/<br>
-(Database)<br><br>
+Postman - https://www.postman.com/<br><br>
+(Database)<br>
 MongoDB - https://www.mongodb.com/docs/drivers/...<br><br>
 (Deployment)<br>
 Git Documentation - https://git-scm.com/book/en/v2/Gettin...<br>
