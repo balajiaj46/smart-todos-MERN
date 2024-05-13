@@ -8,7 +8,7 @@
 
 <h1>🚀 Demo</h1>
 
-[https://awesome-todos-youtube.onrender.com/](https://smart-todos.onrender.com/)
+[https://smart-todos.onrender.com/](https://smart-todos.onrender.com/)
 
 <h2>Resources:</h2>
 
